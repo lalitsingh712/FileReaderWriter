@@ -1,0 +1,3 @@
+Welcome to Codveda Technologies Internship.
+This is Task 2 of Level 2.
+File Handling in Java is simple and powerful.
